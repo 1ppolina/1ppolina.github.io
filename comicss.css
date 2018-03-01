@@ -1,0 +1,67 @@
+﻿p
+{
+border: 3px solid green;
+padding: 10px;
+background: white;
+}
+body
+{ text-align: center;
+  background: url(фон5.jpg);
+}
+h1
+{ 
+font-family: Helvetica, Arial, sans-serif;
+font-size: 60px;
+color: red;
+font-style: normal;
+font-weight: bold;
+}
+h2
+{
+font-family: "Lucida Console", Monaco, monospace;
+font-size: 20px;
+color: aqua;
+}
+p, li
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+}
+li
+{
+color: white;
+}
+em
+{
+text-decoration: underline;
+font-style: italic;
+color: maroon;
+}
+strong
+{
+font-weight: bold;
+color: green;
+}
+a
+{
+color: red;
+font-weight: bold;
+}
+a:hover
+{
+background-color: black;
+color: white;
+}
+img
+{
+width: 600px;
+height: 150px;
+border-style: groove;
+border-width: 2px;
+border-color: yellow;
+padding: 2px;
+}
+div {
+
+width: 300px;
+}
